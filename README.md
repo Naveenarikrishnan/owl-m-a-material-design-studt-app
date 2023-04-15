@@ -1,9 +1,10 @@
 # Trailhead profile url
-
-Team Lead - https://trailblazer.me/id/naveen1611
-Team Member 1 - https://trailblazer.me/id/bsurya
-Team Member 2 - https://trailblazer.me/id/ssridhar112
-Team Member 3 - https://trailblazer.me/id/venkateshk511
+<ul>
+<li>Team Lead - https://trailblazer.me/id/naveen1611</li>
+<li>Team Member 1 - https://trailblazer.me/id/bsurya</li>
+<li>Team Member 2 - https://trailblazer.me/id/ssridhar112</li>
+<li>Team Member 3 - https://trailblazer.me/id/venkateshk511</li>
+</ul>
 
 # Preview
   <p float="left">
